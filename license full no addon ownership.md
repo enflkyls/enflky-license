@@ -1,15 +1,6 @@
 
 # LICENSE AGREEMENT
 
-## SCOPE
-
-This project contains two distinct parts governed by different licenses:
-
-1. **Core Software:** All files, source code, images, and documentation (excluding the `src/main/resources` directory and its subdirectories) are governed by the **Enflkyls Software License Version S:S** defined below.
-2. **Resources:** Files located within the `src/main/resources` directory and its subdirectories are governed by the **Apache License, Version 2.0** and these assets derived from **Eureka! Ships! for Valkyrien Skies** (as known as Valkyrien Skies: Eureka) (which can be found here https://github.com/ValkyrienSkies/Eureka).
-
----
-
 ## ENFLKYLS SOFTWARE LICENSE VERSION S:S
 
 **Copyright (c) 2026 enflkyls. All rights reserved.**
