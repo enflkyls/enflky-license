@@ -16,8 +16,6 @@ This project contains two distinct parts governed by different licenses:
 
 ### 1. ALL RIGHTS RESERVED & PROHIBITED USES
 
-Except as expressly granted in Section 2, all rights, title, and interest in and to the core software (including source code, compiled binaries, images, and documentation outside of the `src/main/resources` directory) are exclusively owned by **enflkyls**.
-
 You are strictly prohibited from:
 
 * **Copying:** Copying or reproducing the Software or any part of its source code.
